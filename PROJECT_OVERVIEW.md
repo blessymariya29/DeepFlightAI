@@ -18,7 +18,6 @@ Key Features:
 
 Results:
 - Achieved 98.2% accuracy
-- SHAP summary plot showing top contributing factors  
 
 Dataset
 - Aviation Maintenance Dataset from NGAFID – Kaggle
